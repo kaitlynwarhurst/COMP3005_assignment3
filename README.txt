@@ -2,7 +2,7 @@ README
 
 Kaitlyn Warhurst
 
-Youtube Demo Video: 
+Youtube Demo Video: https://youtu.be/uA6CQEDn2rI
 --------------------------------------------------------------------------------------------------------
 
 Creating the Database in PostgreSQL:
